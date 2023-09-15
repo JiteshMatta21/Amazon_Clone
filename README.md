@@ -6,4 +6,4 @@ Mainly I faced difficulty in setting up the position,which was solved by learnin
 
 I also learned some new properties,such as 'background-size' with 'cover' and 'justify-content' with 'space-evenly'.
 
-I also learned how to use the percent(%)roperty for styling in width and height conditions.
+I also learned how to use the percent(%) property for styling in width and height conditions.
